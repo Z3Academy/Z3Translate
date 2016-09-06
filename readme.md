@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://cdn.rawgit.com/Z3Academy/Z3Translate/master/media/logo.png" width="350" align="middle">
+<img src="https://github.com/Z3Academy/Z3Translate/blob/master/logo.png" width="350" align="middle">
 <br>
 </h1>
 
