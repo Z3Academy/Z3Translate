@@ -8,4 +8,5 @@
 > قائمة متجددة لدروس تعنى ببرمجة الويب نرغب بترجمتها و إضافتها إلى منشورات أكاديميتنا [على منصة ميديوم](https://medium.com/z3academy)
 
 
-// TODO: add some articles
+http://www.w3schools.com/js/default.asp
+https://www.sitepoint.com/how-to-declare-variables-javascript/
