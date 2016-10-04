@@ -7,6 +7,8 @@
 
 > قائمة متجددة لدروس تعنى ببرمجة الويب نرغب بترجمتها و إضافتها إلى منشورات أكاديميتنا [على منصة ميديوم](https://medium.com/z3academy)
 
+## Articles:
++ [Sitepoint : Variable Declaration](https://www.sitepoint.com/how-to-declare-variables-javascript/)
++ [David Walsh : JavaScript Objects](https://davidwalsh.name/javascript-objects) 
 
-+ [w3schools JS] (http://www.w3schools.com/js/default.asp)
-+ [Sitepoint : variable declaration] (https://www.sitepoint.com/how-to-declare-variables-javascript/)
+## Projects & Interactive Tutorials:
